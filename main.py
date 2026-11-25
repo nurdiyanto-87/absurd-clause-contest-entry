@@ -7,9 +7,9 @@ Pure standard library only; deterministic.
 import os
 
 CLAUSE = (
-    "You agree that your left shoe remains the property of the Company "
-    "and may be repossessed at any time by a representative wearing the "
-    "right shoe."
+    "You hereby grant the Company a perpetual, irrevocable license to "
+    "your left shoe, repossessable at any time by a representative "
+    "wearing the right one."
 )
 
 
